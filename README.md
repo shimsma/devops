@@ -9,4 +9,7 @@
 
 2. Goodle driver for VMWare image
  - https://drive.google.com/drive/folders/1eZReBLiRn3aEq_z7dK59-MPnx47Oz641?usp=drive_open
+ 
+3. Local directory에 git clone 
+ - c:\> git clone <address>
 
